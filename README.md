@@ -26,8 +26,8 @@ Abaixo visão do esquema de ligação dos compenentes:
 
 Acesso a codificação
 
-![CodigoFonte](code.ino)
 
+Veja o código do script [aqui](./code.ino).
 
 
 Acesso ao projeto no ThinkerCAD: [Projeto N2](https://www.tinkercad.com/things/bReYzSNEFTT-micro-elico-n2/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=Vp_gmCmpb14rObY9lTz21X7dx6KztV8tlNRaED8rZI8)
