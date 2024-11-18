@@ -7,3 +7,5 @@ Projeto de criação de um pequeno game na plataforma ThinkerCAD utilizando ardu
 
 ## Visão Esquemática
 
+Abaixo visão do esquema de ligação dos compenentes:  
+![VisaoEsquemática](Micro-Elico-N2.png)
